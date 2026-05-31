@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpalidate",
+        "uuid": 27353474,
+        "checksum": "hcmwi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
